@@ -37,22 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=UDAY-SHAH&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=UDAY-SHAH&theme=radical" />
-</p>
-
----
-
-## 🧩 Projects I'm Proud Of
-
-- 🛒 **Grocery Delivery Platform** (Admin, User & Delivery Partner roles)
-- 📅 **Exam Prep App** – Smart reminders, revision cycles, and weak area detection
-- 🛠️ **Authentication System** – With JWT, bcrypt, role-based access, and secure routes
-
----
 
 ## 📬 Connect With Me
 
