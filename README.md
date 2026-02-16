@@ -8,8 +8,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: **a full-featured Grocery Delivery App** with Admin, User, and Delivery Partner roles.
-- 🌱 Currently learning: **AI integration in web apps** & **Socket.IO for real-time features**
+- 🔭 I’m currently working on: ** A task management system** with Admin , employee , viewer , managers.
+- 🌱 Currently learning: **Scalable architecture designs , advanced backend concepts ** & **Gen Ai**
 - 📱 Love building: Web & Mobile apps using **React + React Native**
 - 💡 Interested in: **System Design**, **Backend Engineering**, and **Data Analysis**
 - 🧠 Goal: Become an **Advanced Backend Developer** with clean, scalable architecture skills
