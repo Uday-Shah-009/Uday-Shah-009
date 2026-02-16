@@ -8,8 +8,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: ** A task management system** with Admin , employee , viewer , managers.
-- 🌱 Currently learning: **Scalable architecture designs , advanced backend concepts ** & **Gen Ai**
+- 🔭 I’m currently working on:  A task management system with Admin , employee , viewer , managers.
+- 🌱 Currently learning: Scalable architecture designs , advanced backend concepts & Gen Ai
 - 📱 Love building: Web & Mobile apps using **React + React Native**
 - 💡 Interested in: **System Design**, **Backend Engineering**, and **Data Analysis**
 - 🧠 Goal: Become an **Advanced Backend Developer** with clean, scalable architecture skills
