@@ -13,7 +13,7 @@
 - 📱 Love building: Web & Mobile apps using **React + React Native**
 - 💡 Interested in: **System Design**, **Backend Engineering**, and **Data Analysis**
 - 🧠 Goal: Become an **Advanced Backend Developer** with clean, scalable architecture skills
-- 🗓 Age: 19 | 🧾 Tech Dreamer, Project Builder
+- 🗓 Age: 20 | 🧾 Tech Dreamer, Project Builder
 
 ---
 
